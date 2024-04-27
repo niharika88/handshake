@@ -14,3 +14,7 @@ Similar steps for Linux/Windows Machines.
  - Navigate to cloned repo directory (_should have Go installed locally_)
    - Run `go build` to build the code
    - Execute the test: `./handshake`
+
+##### Testing screenshots
+ - ![one](https://github.com/niharika88/handshake/blob/main/payloadstring.png)
+ - ![one](https://github.com/niharika88/handshake/blob/main/payloadbytes.png)
